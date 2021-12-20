@@ -22,6 +22,10 @@ Extensiones recomendadas de ```VS Code``` para desarrollos WEB básicos
 | PHP Intelephense | Características esenciales para el desarrollo de PHP | Ben Mewburn |
 | Bracket Pair Colorizer | Colorea los (), [], {} del mismo color segun su apertura y cierre  | CoenraadS |
 | Better Comments | Crea anotaciones destacables en los comentarios | Aaron Bond |
+### SQL
+| Nombre | Descripción | Creador |
+| - | - | - |
+| SQL Formatter | Formateo de archivos SQL | adpyke |
 
 ### Generales
 | Nombre | Descripción | Creador |
