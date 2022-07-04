@@ -35,4 +35,5 @@ Extensiones recomendadas de ```VS Code``` para desarrollos WEB básicos
 | Format HTML in PHP | Formatea el HTML en archivos PHP | rifi2k |
 | GitLens | Ver rápidamente quién y cuándo se cambió una línea o un bloque de código  | GitKraken |
 | Path Intellisense | Autocompleta rutas de archivo | Christian Kohler |
+| Error Lens | Mejorar el resaltado de errores y advertencias | Alexander |
 ----
